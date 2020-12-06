@@ -19,3 +19,24 @@ G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconf
 G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.genruntimeconfig.cache
 G:\CTS Data\Stage IV\Dockersampleconfig\bin\Debug\netcoreapp3.1\DockerSampleConfig.yaml
 G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.csprojAssemblyReference.cache
+C:\Users\Devi\Source\Repos\learnings-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Devi\Source\Repos\learnings-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Devi\Source\Repos\learnings-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Devi\Source\Repos\learnings-master\bin\Debug\netcoreapp3.1\Dockersampleconfig.exe
+C:\Users\Devi\Source\Repos\learnings-master\bin\Debug\netcoreapp3.1\DockerSampleConfig.yaml
+C:\Users\Devi\Source\Repos\learnings-master\bin\Debug\netcoreapp3.1\Dockersampleconfig.deps.json
+C:\Users\Devi\Source\Repos\learnings-master\bin\Debug\netcoreapp3.1\Dockersampleconfig.runtimeconfig.json
+C:\Users\Devi\Source\Repos\learnings-master\bin\Debug\netcoreapp3.1\Dockersampleconfig.runtimeconfig.dev.json
+C:\Users\Devi\Source\Repos\learnings-master\bin\Debug\netcoreapp3.1\Dockersampleconfig.dll
+C:\Users\Devi\Source\Repos\learnings-master\bin\Debug\netcoreapp3.1\Dockersampleconfig.pdb
+C:\Users\Devi\Source\Repos\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.csprojAssemblyReference.cache
+C:\Users\Devi\Source\Repos\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.csproj.CoreCompileInputs.cache
+C:\Users\Devi\Source\Repos\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Devi\Source\Repos\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.AssemblyInfoInputs.cache
+C:\Users\Devi\Source\Repos\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.AssemblyInfo.cs
+C:\Users\Devi\Source\Repos\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.RazorTargetAssemblyInfo.cache
+C:\Users\Devi\Source\Repos\learnings-master\obj\Debug\netcoreapp3.1\staticwebassets\Dockersampleconfig.StaticWebAssets.Manifest.cache
+C:\Users\Devi\Source\Repos\learnings-master\obj\Debug\netcoreapp3.1\staticwebassets\Dockersampleconfig.StaticWebAssets.xml
+C:\Users\Devi\Source\Repos\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.dll
+C:\Users\Devi\Source\Repos\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.pdb
+C:\Users\Devi\Source\Repos\learnings-master\obj\Debug\netcoreapp3.1\Dockersampleconfig.genruntimeconfig.cache
